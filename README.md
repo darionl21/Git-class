@@ -190,22 +190,3 @@ Visual:
 ```
 
 ---
-
-## 8. Recomendación para presentarlo en clase
-
-1. Explica primero el modelo remoto/local.
-2. Muestra los comandos básicos: `fetch`, `pull`, `push`.
-3. Después, describe ramas y cómo se usan.
-4. Usa el ejemplo de conflicto para mostrar el proceso de resolución.
-5. Finaliza con protección de ramas y qué es un changelog.
-
----
-
-## 9. Ideas para imágenes reales
-
-Si quieres imágenes reales, puedes usar:
-- iconos de Git y GitHub en sitios de recursos gratuitos.
-- capturas de pantalla de GitHub con ramas y PR.
-- diagramas de flujo simples exportados desde una herramienta como draw.io.
-
-> Nota: aquí se incluyen diagramas de texto que puedes copiar al archivo `README` o usar como guía para crear gráficos más elaborados.
